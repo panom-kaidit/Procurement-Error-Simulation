@@ -56,6 +56,4 @@ form.addEventListener("submit", function (event) {
     // 10. Success message
     alert("Procurement submitted successfully!");
 
-    // Optional: submit form after validation
-    // form.submit();
 });
